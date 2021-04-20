@@ -1,0 +1,12 @@
+h1{
+    font-size:30px;
+    color: rgb(65, 236, 65);
+    text-align: center;
+    font-family: fantasy;
+}
+body{
+background-color: rgb(113, 113, 226);
+}
+.footer{
+    background-color: crimson;
+}

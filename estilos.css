@@ -1,0 +1,18 @@
+p{
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+    color: blueviolet;
+}
+h1{
+    font-size: 22px;
+    font-weight: bold;
+    color: chartreuse;
+}
+.parrafo{
+    font-size: 18px;
+    color: rgb(112, 141, 83);
+    font-weight: bold;
+    text-align: justify;
+    font-family: 'Homemade Apple', cursive;
+}
